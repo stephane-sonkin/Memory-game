@@ -1,2 +1,2 @@
 # Memory-game
-flip the right pair
+Flip the right pair of cards.
